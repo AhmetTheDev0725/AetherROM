@@ -34,11 +34,11 @@ Any form of contribution, suggestions, bug report or feature request for the pro
 - EroFS partitions
 - Stock models in Settings and user apps
 - High end animations
-- Custom Bootloader Images(up_param) and boot animations
+- Removed Bootloader Warnings
 - Some OneUI 8 Apps implemented
 - Viper4Android FX implemented
-- Custom Boot and Shut Down sounds
-- Custom Wallpapers from Higher Models
+- Windows 7 Boot and Shut Down sounds
+- Wallpapers from Galaxy Tab S10 Ultra
 - Native/live blur support
 - Debloated from useless system services/additional apps
 - [BluetoothLibraryPatcher](https://github.com/3arthur6/BluetoothLibraryPatcher) included
